@@ -1,4 +1,4 @@
-# myapp
+# Vue playground
 
 > A Vue.js project
 
